@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="35px" height="24px" viewBox="0 0 35 24" version="1.1" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" 
+    xmlns="http://www.w3.org/2000/svg">
+    <desc>Created with Lunacy</desc>
+    <g id="MENU_ICON">
+        <path d="M0 0L35 0L35 4L0 4L0 0Z" id="Rectangle" fill="#489BFF" stroke="none" />
+        <path d="M0 0L35 0L35 4L0 4L0 0Z" transform="translate(0 10)" id="Rectangle" fill="#489BFF" stroke="none" />
+        <path d="M0 0L35 0L35 4L0 4L0 0Z" transform="translate(0 20)" id="Rectangle" fill="#489BFF" stroke="none" />
+    </g>
+</svg>
